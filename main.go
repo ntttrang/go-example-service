@@ -1,12 +1,9 @@
 package main
 
-import "fmt"
+import (
+	"github.com/ntttrang/t-log-service/hello"
+)
 
 func main() {
-	HelloWorld()
-}
-
-//HelloWorld show Hello World!
-func HelloWorld() {
-	fmt.Println("Hello World!")
+	hello.Hi()
 }
