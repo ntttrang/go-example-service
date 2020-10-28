@@ -6,3 +6,8 @@ import "fmt"
 func Hi() {
 	fmt.Println("Hello World!")
 }
+
+//Welcome welcome
+func Welcome() {
+	fmt.Println("Welcome to t-log-service")
+}
