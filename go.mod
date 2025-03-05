@@ -1,3 +1,3 @@
-module github.com/ntttrang/t-log-service
+module github.com/ntttrang/go-example-service
 
-go 1.13
+go 1.24.0
